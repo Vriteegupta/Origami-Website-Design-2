@@ -17,7 +17,7 @@
     color:black;
     align-items: center;
     font-size: 15px;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 
 .step {
@@ -43,7 +43,7 @@
     border-radius: 20px;
     background-color: rgb(243, 194, 176);
     width: 310px;
-    font-family: fantasy;
+    font-family: sans-serif;
     margin-left: 50px;
     margin-top: 25px;
     padding-top: 15px;
