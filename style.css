@@ -1,20 +1,20 @@
 .menu{
     display:flex;
     justify-content: space-between;
-    background-color: rgb(255,255,255);
+    background-color: rgb(44,2,2);
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 400;
-    color: black;
+    color: white;
     height: 25px;
 } 
 
 .mHead {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(58,2,11);
 }
 
 .bodyimg {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(58,2,11);
     color:black;
     align-items: center;
     font-size: 15px;
