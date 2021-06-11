@@ -1,21 +1,21 @@
 .menu{
     display:flex;
     justify-content: space-between;
-   
+    background-color: rgb(255,255,255);
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 400;
-
+    color: black;
     height: 25px;
 } 
 
 .mHead {
-    background-color: rgb(0,0,0);
+    background-color: rgb(255, 255, 255);
 }
 
 .bodyimg {
-    background-color: rgb(0,0,0);
-    color:white;
+    background-color: rgb(255, 255, 255);
+    color:black;
     align-items: center;
     font-size: 15px;
     font-family: cursive;
